@@ -1,0 +1,2 @@
+rootProject.name='Tabela_Szczegoly'
+include ':app'
